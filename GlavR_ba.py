@@ -29,7 +29,7 @@ class Warrior():
 
 
 woin1 = Warrior("Александр", 50, 100, "Рыжий")
-woin2 = Warrior("Вародин", 11, 5, "Рыжий")
+#woin2 = Warrior("Вародин", 11, 5, "Рыжий")
 
 
 
