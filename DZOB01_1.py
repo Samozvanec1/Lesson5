@@ -29,6 +29,8 @@ class TaskManager:
         else:
             for task in current_tasks:
                 print(task)
+
+
     def show_end_tasks(self):
         end_tasks = [task for task in self.tasks if task.status_rez]
         if not end_tasks:
